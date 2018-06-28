@@ -3,7 +3,7 @@
     "id": "0",
     "name": "Big Fish 95.5 FM",
     "propellant": "Cayman Islands",
-    "destination": "http://ice1.securenetsystems.net/DEMOSTN?",
+    "destination": "httpi",
     "imageurl": "https://raw.githubusercontent.com/wizdigitech/testlol/master/png/zip_103_fm.png",
   },
   {
